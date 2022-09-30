@@ -7,3 +7,27 @@ Python is a general purpose, dynamic, high-level, and interpreted programming la
 - Designed by : Guido van Rossum
 - Developer : Python Software Foundation
 - First appeared : 20 February 1991
+
+---
+### Table of content
+
+#### Introduction
+What is Python
+
+#### Operators
+
+- Arithmetic Operators
+- Bitwise operators
+- Assignment Operators
+- Comparison Operators
+- Logical Operators
+- Identity Operators
+- Membership Operators
+
+
+
+
+#### Data Types
+#### Control Flow
+#### Functions
+#### Classes & Objects
