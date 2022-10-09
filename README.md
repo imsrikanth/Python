@@ -12,17 +12,17 @@ Python is a general purpose, dynamic, high-level, and interpreted programming la
 ### Table of content
 
 #### Introduction
-[What is Python](https://github.com/imsrikanth/Python/blob/main/Introduction/what%20is%20python.md)
-- [Installation]
+[What is Python](https://github.com/imsrikanth/Python/blob/main/Introduction/what%20is%20python.md)  
+[Installation]
 
 #### Operators
-```
-Python Operators in general are used to perform operations on values and variables. 
-These are standard symbols used for the purpose
 
- OPERATORS : Are the special symbols. Eg- + , * , /, etc.
- OPERAND : It is the value on which the operator is applied.
-```
+Python Operators in general are used to perform operations on values and variables.   
+These are standard symbols used for the purpose  
+
+ OPERATORS : Are the special symbols. Eg- + , * , /, etc.  
+ OPERAND : It is the value on which the operator is applied.  
+
 
 - Arithmetic Operators
 - Bitwise operators
