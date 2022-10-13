@@ -16,7 +16,7 @@ Python is a general purpose, dynamic, high-level, and interpreted programming la
 [Installation]  
 [Python Syntax](https://github.com/imsrikanth/Python/blob/main/Introduction/Python%20Syntax.md)  
 [Variables](https://github.com/imsrikanth/Python/blob/main/Introduction/variables.md)  
-[Keywords]
+[Keywords](https://github.com/imsrikanth/Python/blob/main/Introduction/keywords.md)
 
 #### Operators
 
