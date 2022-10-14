@@ -27,7 +27,7 @@ These are standard symbols used for the purpose
  OPERAND : It is the value on which the operator is applied.  
 
 
-- [Arithmetic Operators](https://github.com/imsrikanth/Python/tree/main/operators)
+- [Arithmetic Operators](https://github.com/imsrikanth/Python/blob/main/operators/arithmetic%20operators.md)
 - Bitwise operators
 - Assignment Operators
 - Comparison Operators
