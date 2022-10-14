@@ -31,7 +31,7 @@ x % y
 Power: Returns first raised to power second
 x ** y
 
-### Examples
+### Examples:
 ```python
 # Examples of Arithmetic Operator
 a = 9
