@@ -28,7 +28,7 @@ These are standard symbols used for the purpose
 
 
 - [Arithmetic Operators](https://github.com/imsrikanth/Python/blob/main/operators/arithmetic%20operators.md)
-- Bitwise operators
+- [Bitwise Operators](https://github.com/imsrikanth/Python/blob/main/operators/Bitwise%20Operators.md)
 - Assignment Operators
 - Comparison Operators
 - Logical Operators
