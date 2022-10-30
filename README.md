@@ -39,6 +39,25 @@ These are standard symbols used for the purpose
 
 
 #### Data Types
+
+Data types are the classification or categorization of data items. It represents the kind of value that tells what operations can be performed on a particular data
+
+Numeric  
+- Integer
+- FLoat
+- Complex number 
+
+Sequence Type  
+- String
+- List
+- Tuple
+
+Boolean  
+
+Set  
+
+Dictionary  
+    
 #### Control Flow
 #### Functions
 #### Classes & Objects
